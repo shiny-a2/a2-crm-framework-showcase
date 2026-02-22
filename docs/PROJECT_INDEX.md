@@ -1,19 +1,7 @@
-# a2-crm-framework-showcase
+# Project Index
 
-A modular CRM framework for WordPress-focused operations, designed for fast adaptation across sales, service, and in-person retail workflows with strong observability and operational controls.
+Complete private-repository index (private source references only).
 
-## Core Capabilities
-- Omnichannel Operator Inbox with 360 profile view, SLA indicators, assignment, and quick replies.
-- Lead Lifecycle & Operations for contacts, leads, deals, tasks, quotes, ownership, and audit logs.
-- In-Person Orders workflow for assisted sales scenarios.
-- Telephony integration layer (Novatel-ready, provider-agnostic abstraction).
-- Executive dashboard with Jalali/Gregorian range support, funnel analytics, acquisition views, drill-down, and CSV export.
-
-## What’s Private
-Implementation details, source code, and production-specific integrations are maintained in private repositories.
-
-## Project Index
-The table below is a complete index of private-source repositories used across the portfolio.
 | Project | Purpose | KPI (Anonymized) | Source |
 |---|---|---|---|
 | A2 SEO Plugin | Internal SEO controls and optimization utilities for WordPress operations. | Improved indexing consistency and crawl hygiene (anonymized). | private source: https://github.com/shiny-a2/a2-seo-plugin |

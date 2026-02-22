@@ -6,3 +6,4 @@ All metrics below are anonymized and client-safe.
 - Manual reassignment overhead reduced by approximately 20-35%.
 - Lead stage transition visibility improved through near-complete audit coverage.
 - Executive reporting cycle time reduced from ad hoc to repeatable scheduled exports.
+- Internal order-operation correction turnaround improved by approximately 15-30%.
