@@ -12,6 +12,12 @@ A modular CRM framework for WordPress-focused operations, designed for fast adap
 ## What’s Private
 Implementation details, source code, and production-specific integrations are maintained in private repositories.
 
+## Latest Reliability Update (2026-02-25)
+- `A2 CRM Plugin v3.2.1`: enforced same-origin admin AJAX URL normalization for alias-safe admin operations.
+- `A2 Order Fix Box (MU) v1.7.1`: narrowed admin asset loading to order contexts to reduce script interference risk.
+- `MU Admin + Action Scheduler Core v1.1.0`: added Rank Math redirections compatibility guards for a blocked SEO workflow.
+- Detailed release note: `docs/RELEASE_2026-02-25_ADMIN_RELIABILITY.md`.
+
 ## Project Index
 The table below is a complete index of private-source repositories used across the portfolio.
 | Project | Purpose | KPI (Anonymized) | Source |
