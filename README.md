@@ -1,24 +1,31 @@
 # A2 CRM Framework Showcase
 
-Project Status: Showcase, superseded by `a2-crm-operations-system`
+Project Status: Legacy showcase
 
-This repository documents a WordPress-based CRM architecture for customer operations, operator workflows, sales follow-up, provider integrations, reporting, and management visibility.
-
-For the current employer-facing version, use:
+This repository is kept as a public bridge to earlier WordPress CRM architecture documentation. The current, stronger employer-facing case study is:
 
 https://github.com/shiny-a2/a2-crm-operations-system
 
-## Public Scope
+## Current Direction
 
-The public repository should explain architecture, constraints, and representative samples. It should not include customer data, chat logs, phone numbers, provider credentials, private business rules, or links to private implementation repositories.
+The newer repository explains the CRM work through production operating concerns:
 
-## Recommended Cleanup
+- operator assignment state;
+- customer context and role boundaries;
+- provider abstraction for SMS/VoIP-style integrations;
+- audit logging;
+- reporting cost and snapshot thinking;
+- admin UI boundaries.
 
-- Remove private source repository links.
-- Replace broad anonymized KPI ranges with concrete business value.
-- Add `/samples` with service, repository, and admin UI examples.
-- Add topics: `wordpress`, `php`, `crm`, `mysql`, `rest-api`, `woocommerce`, `operations`.
+## Why This Repo Remains Public
+
+It preserves historical context while the public portfolio moves to a cleaner showcase structure. It should not be pinned once `a2-crm-operations-system` is pinned.
+
+## Safety Policy
+
+No customer data, phone numbers, private messages, provider credentials, internal workflow details, or private implementation source should be published here.
 
 ## Portfolio
 
 https://amiraliyaghouti.com
+
